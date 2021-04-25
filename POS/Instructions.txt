@@ -1,0 +1,14 @@
+
+1. UserName : mirferdous
+   Password: 011152196
+
+2. Always keep all 
+	I.   ".dat" 
+	II.  ".ser"
+	III. ".db"  
+  files in same folder with "POS.jar"
+
+3. Run the "POS.jar"
+
+4. (Optional) Install the fonts from "Fonts" Folder    
+   for better UI design (Used Fonts:)

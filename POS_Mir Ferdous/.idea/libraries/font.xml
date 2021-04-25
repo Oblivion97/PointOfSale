@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="font">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/font/comfortaa.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resources/font/arista_2.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resources/font/beon.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resources/font/ubuntu_title.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resources/font/source-sans-pro.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
